@@ -11,8 +11,15 @@
 
 [![Golang](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://golang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![React.js](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white)](https://reactjs.org/) [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)](https://expressjs.com/) [![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+<a href="https://github.com/ayushgupta-lang">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushgupta-lang&show_icons=true&theme=light&line_height=27" alt="ayush's github stats"/>
+</a>
 
-Show some ❤️ by starring some of the repositories!
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 
